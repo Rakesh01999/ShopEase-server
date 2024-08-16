@@ -1,2 +1,2 @@
 ## Shope Ease 
-* Server - Side
+* Server-Side
