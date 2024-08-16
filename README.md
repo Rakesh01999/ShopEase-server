@@ -1,4 +1,4 @@
 ## Shope Ease 
 
 * Server-Side
-This is [Server Side] repo
+This is [Server-Side] repo
